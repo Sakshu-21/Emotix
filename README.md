@@ -1,4 +1,4 @@
-#  Real-Time Emotion Detector
+#  Real-Time Emotion Detector: EMOTIX
 A real-time facial emotion detection app using your webcam, with a live updating graph that tracks emotion changes over time.
 ## Features
 - 🎥 Live webcam feed with face detection
